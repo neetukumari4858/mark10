@@ -38,5 +38,7 @@ body{
 table, th, td {
     border: 2px solid var(--primary-green);
     border-collapse: collapse;
+    table-layout: fixed;
+    width: 2.8rem;
 }
 
